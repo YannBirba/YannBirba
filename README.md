@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Yann Birba</h1>
-<h3 align="left">Apprentice web developer at Octacom</h3>
+<h3 align="left">Apprentice web developer at Octa'com</h3>
 
 - 🌱 I’m currently learning **Angular, Laravel, NextJs and RedwoodJs**
 - 👨‍💻 All of my projects are available at **[yannbirba.fr](https://yannbirba.fr)**
@@ -295,3 +295,4 @@
     alt="yannbirba"
   />
 </p>
+Generated with https://rahuldkjain.github.io/gh-profile-readme-generator
