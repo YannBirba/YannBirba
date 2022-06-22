@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Yann Birba</h1>
 <h3 align="left">Apprentice web developer at Octa'com</h3>
 
-- 🌱 I’m currently learning **Angular, Laravel, NextJs and RedwoodJs**
+- 🌱 I’m currently learning **NextJS and Laravel**
 - 👨‍💻 All of my projects are available at **[yannbirba.fr](https://yannbirba.fr)**
 - 📫 How to reach me **[birbayann@gmail.com](mailto:birbayann@gmail.com)**
 - 📸 Fascinated by photography **[photo.yannbirba.fr](https://photo.yannbirba.fr)**
