@@ -1,4 +1,4 @@
-<h1 align="left">🧑‍💻Hello, I'm Yann, web developer from France <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/250px-Flag_of_France.svg.png" width="35px" /></h1>
+<h1 align="left">Hello, I'm Yann, web developer from France <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/250px-Flag_of_France.svg.png" width="35px" /></h1>
 <h3 align="left">Working for Octa'com</h3>
 
 - 🌱 I’m currently learning **ReactJS server components**
